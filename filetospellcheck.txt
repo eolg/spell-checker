@@ -1,0 +1,9 @@
+hello!
+this is a spel check
+docuemnt. it will be checkedd
+for correct. spelling fo each worrd!
+It will also retur suggestions
+for HOW to corectly spelll words.
+'heree ae some additional WORds!
+since we dont want to test ll the wordss
+we wlil just test these !ones!
